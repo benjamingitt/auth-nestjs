@@ -32,6 +32,14 @@
 $ npm install
 ```
 
+## Db migrate
+
+```bash
+$ npm run db:init
+$ npm run practice
+$ npm run db:migrate
+```
+
 ## Running the app
 
 ```bash
